@@ -10,3 +10,5 @@ Part 2: Create a new repository from the command line
 * use git init to initialize a new repository
 press :wq after escape to save and exit
 
+Part 3: Tracking changes with git
+* this is what we are working on now
