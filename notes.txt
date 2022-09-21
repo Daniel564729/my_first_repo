@@ -12,3 +12,5 @@ press :wq after escape to save and exit
 
 Part 3: Tracking changes with git
 * this is what we are working on now
+
+Part 4: Exploring history
