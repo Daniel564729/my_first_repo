@@ -1,0 +1,10 @@
+Part 1: The Basics of Git
+* Git is used for version control 
+vim opens files in text editer
+press i to type in vim
+touch creates txt file
+ls lists the files in your folder
+cat returns what is in the txt file
+
+press :wq after escape to save and exit
+
